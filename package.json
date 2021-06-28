@@ -4,8 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://13.127.24.23:2070/lalualex/repository/nodejs-mss-repo/"
-  },
+    "registry": "http://13.127.24.23:2070/lalualex/repository/nodejs/"
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
